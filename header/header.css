@@ -1,0 +1,22 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    border-color: 1px solid black;
+}
+
+.titulo {
+    color: white;
+    background-color: green;
+    border-radius: 4px;
+}
+
+.boton {
+    background-color: blue;
+    color: white;
+    border-radius: 4px;
+
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+}
