@@ -1,0 +1,9 @@
+.section3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+tr,td{
+    padding: 10px 10px;
+}
